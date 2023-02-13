@@ -1,3 +1,32 @@
+# FaceCook
+
+This is a mern stack blog site to represent cooks showing off their beautiful pictures of their cooking.
+
+## Description
+
+The purpose of this project was to display my skills and projects using the mern stack.
+I created fully functional login and registry forms.
+Authors are able to create, and edit posts.
+
+[View Project here](https://facecook.netlify.app/)
+
+
+### Instructions
+- Fork this repository
+- Clone your forked repository
+- Add your scripts
+- Commit and push
+- Create a pull request
+- Star this repository
+- Wait for pull request to merge
+- Celebrate your first step into the open source world and contribute more
+
+
+## Things I'd like to add
+- An optimized UI with mobile responsiveness
+- A delete method to allow authors to delete posts
+- A fully functional nested comments system for posts
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
